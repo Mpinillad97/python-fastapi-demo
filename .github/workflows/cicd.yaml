@@ -19,4 +19,4 @@ jobs:
  
       - name: unittest
         run: |
-          pytest test/pytest.py
+          pytest test/test.py
